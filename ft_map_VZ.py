@@ -8,9 +8,9 @@ st.write("🔍 연령별 출산율 및 합계출산율(행정구역별)")
 # 지도 출력
 
 # 저장된 지도 HTML 파일 경로
-ft_map_path = "C:/Users/hyunji/Documents/hongik_2024/2024-2/DataVZ/Streamlit/HW3_elements/ft_map.html"
-ft_map_plus = "C:/Users/hyunji/Documents/hongik_2024/2024-2/DataVZ/Streamlit/HW3_elements/ft_map_plus.html"
-ft_map_heat = "C:/Users/hyunji/Documents/hongik_2024/2024-2/DataVZ/Streamlit/HW3_elements/ft_map_heat.html"
+ft_map_path = "ft_map.html"
+ft_map_plus = "ft_map_plus.html"
+ft_map_heat = "ft_map_heat.html"
 
 # HTML 파일 내용 읽기
 with open(ft_map_path, 'r', encoding='utf-8') as file1:
